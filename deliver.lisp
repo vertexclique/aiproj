@@ -1,0 +1,1 @@
+(deliver `runeight "eight-puzzle" 0 :multiprocessing t)
